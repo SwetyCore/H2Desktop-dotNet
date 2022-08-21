@@ -1,0 +1,8 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <ResourceDictionary.MergedDictionaries>
+        <ResourceDictionary Source="Control/SearchButton.xaml" />
+        <ResourceDictionary Source="Control/QSListView.xaml" />
+        <ResourceDictionary Source="Control/QSListViewItem.xaml" />
+        <ResourceDictionary Source="Control/ScrollBar.xaml" />
+    </ResourceDictionary.MergedDictionaries>
+</ResourceDictionary>
